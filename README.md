@@ -25,4 +25,13 @@ ${\textsf{\color{#B90E0A} ─────────✧ ꒰ ✙ ꒱ ✧──�
 ![Copenhagen](https://github.com/user-attachments/assets/497c6187-7743-4171-bbf8-23a8be52c2a3)
 
 <p align="center">
-${\textsf{\color{#FDDE6C} Fear not, thou are freely to C+H! Usually sticking this GitHub to my GnB cosplays, 'cause this account is focused on the Guts and Blackpowder fandom only. }}$ 
+${\textsf{\color{#B90E0A} ─────────✧ ꒰ ✙ ꒱ ✧───────── }}$ 
+
+<p align="center">
+${\textsf{\color{#FDDE6C} Fear not, thou are freely to C+H! }}$ 
+
+<p align="center">
+${\textsf{\color{#FDDE6C}  Usually sticking this GitHub to my GnB cosplays, 'cause this account is focused on the Guts and Blackpowder fandom only. }}$ 
+
+<p align="center">
+${\textsf{\color{#B90E0A} ─────────✧ ꒰ ✙ ꒱ ✧───────── }}$ 
