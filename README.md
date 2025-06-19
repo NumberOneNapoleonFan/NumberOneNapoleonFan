@@ -18,7 +18,7 @@ ${\textsf{\color{#B90E0A} ──────⊹ ⊱ ✠︎ ⊰ ⊹────�
 <p align="center">
 ${\textsf{\color{#B90E0A} ─────────✧ ꒰ ✙ ꒱ ✧───────── }}$ 
 
-## *"The survivors has escaped the quarantine."* 
+## *"The survivors have escaped the quarantine."* 
 
 ### ${\textsf{\color{#B90E0A} Battle of Copenhagen, 2 April, 1801. }}$
 
